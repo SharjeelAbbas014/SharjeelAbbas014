@@ -8,8 +8,6 @@ I'm Sharjeel Abbas, working and continuously working on latest and greatest tech
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [sharjeelabbas014@gmail.com](mailto:sharjeelabbas014@gmail.com)
-* 🚀  I'm currently working on [Educative Product](http://educative.io)
-* 🧠  I'm learning GCP
 * 🤝  I'm open to collaborating on Anything Cool
 
 <a href="https://www.github.com/sharjeelabbas014" target="_blank" rel="noreferrer"><img
