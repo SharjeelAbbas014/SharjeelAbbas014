@@ -6,10 +6,6 @@ Software Engineer
 
 I'm Sharjeel Abbas, working and continuously working on latest and greatest technologies. I strongly believe technology is built to help solve problem not the other way around.
 
-* 🌍  I'm based in Pakistan
-* ✉️  You can contact me at [sharjeelabbas014@gmail.com](mailto:sharjeelabbas014@gmail.com)
-* 🤝  I'm open to collaborating on Anything Cool
-
 <a href="https://www.github.com/sharjeelabbas014" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sharjeelabbas014?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
