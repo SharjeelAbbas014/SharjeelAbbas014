@@ -8,7 +8,8 @@ I'm Sharjeel Abbas, working and continuously working on latest and greatest tech
 
 <a href="https://www.github.com/sharjeelabbas014" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sharjeelabbas014?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
+checkout: 
+<a href="https://github.com/SharjeelAbbas014/Awesome-LLM-Debates" target="_blank" rel="noreferrer">Debate Platform</a>
 ### Skills
 
 <p align="left">
